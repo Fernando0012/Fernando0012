@@ -25,7 +25,7 @@
 <img align="left" height="30" src="./imagens/vue-js.png">
 
 <br>
-
+</br>
 #### Contact
 
 <br>
