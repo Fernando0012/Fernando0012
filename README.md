@@ -13,11 +13,13 @@
 
 **📖 What I inetnd to learn:**
 
-<img align="left" height="20" src="./imagens/c-plus-plus.png">
-<img align="left" height="20" src="./imagens/typescript.png">
-<img align="left" height="20" src="./imagens/vue-js.png">
+<img align="left" height="30" src="./imagens/c-plus-plus.png">
+<img align="left" height="30" src="./imagens/typescript.png">
+<img align="left" height="30" src="./imagens/vue-js.png">
+
+
 
 **Contact**
 
-<a href="https://www.instagram.com/fenando_barros/"><img align="left" height="20" src="./imagens/Instagram.png"></a>
-<a href="www.linkedin.com/in/fernando-barros-gobetti-de-araújo-a524b1208"><img align="left" height="20" src="./imagens/linkedin.png"></a>
+<a href="https://www.instagram.com/fenando_barros/"><img align="left" height="30" src="./imagens/Instagram.png"></a>
+<a href="www.linkedin.com/in/fernando-barros-gobetti-de-araújo-a524b1208"><img align="left" height="30" src="./imagens/linkedin.png"></a>
