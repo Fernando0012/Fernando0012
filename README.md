@@ -5,7 +5,9 @@
 **About me:**
 
 -🌱I'm currently learning Git, GitHub, JavaScript, NodeJS, SQLite
+
 -💬 Ask me about: How did you recognize the area, Technology
+
 -📧 How to reach me: nandobarrosg@gmail.com
 
 
