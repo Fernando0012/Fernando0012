@@ -29,8 +29,5 @@
 
 #### Contact
 
-<br>
-
-
 [<img align="left" height="30" src="./imagens/Instagram.png">](https://www.instagram.com/fenando_barros/)
 [<img align="left" height="30" src="./imagens/linkedin.png">](www.linkedin.com/in/fernando-barros-gobetti-de-araújo-a524b1208)
