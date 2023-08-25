@@ -4,12 +4,19 @@
 
 **About me:**
 
-<p>-🌱I'm currently learning Git, GitHub, JavaScript, NodeJS, SQLite</p>
+<br>
 
-<p>-💬 Ask me about: How did you recognize the area, Technology</p>
+-🌱I'm currently learning Git, GitHub, JavaScript, NodeJS, SQLite
 
-<p>-📧 How to reach me: nandobarrosg@gmail.com</p>
+<br>
 
+-💬 Ask me about: How did you recognize the area, Technology
+
+<br>
+
+-📧 How to reach me: nandobarrosg@gmail.com
+
+<br>
 
 **📖 What I inetnd to learn:**
 
@@ -20,6 +27,9 @@
 <br>
 
 **Contact**
+
+<br>
+
 
 [<img align="left" height="30" src="./imagens/Instagram.png">](https://www.instagram.com/fenando_barros/)
 [<img align="left" height="30" src="./imagens/linkedin.png">](www.linkedin.com/in/fernando-barros-gobetti-de-araújo-a524b1208)
