@@ -4,11 +4,11 @@
 
 **About me:**
 
--🌱I'm currently learning Git, GitHub, JavaScript, NodeJS, SQLite
+<p>-🌱I'm currently learning Git, GitHub, JavaScript, NodeJS, SQLite</p>
 
--💬 Ask me about: How did you recognize the area, Technology
+<p>-💬 Ask me about: How did you recognize the area, Technology</p>
 
--📧 How to reach me: nandobarrosg@gmail.com
+<p>-📧 How to reach me: nandobarrosg@gmail.com</p>
 
 
 **📖 What I inetnd to learn:**
